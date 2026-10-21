@@ -1,0 +1,11 @@
+---
+- name: Ensure the training user exists on managed servers
+  hosts: managed
+  become: true
+  tasks:
+    - name: Create user1 idempotently
+      ansible.builtin.user:
+        name: user1
+        state: present
+        create_home: true
+        shell: /bin/bash

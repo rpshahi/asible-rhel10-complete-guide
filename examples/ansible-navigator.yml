@@ -1,0 +1,6 @@
+---
+# Offline/local first lessons only; use a supported EE for AAP practice.
+ansible-navigator:
+  execution-environment:
+    enabled: false
+  mode: stdout
