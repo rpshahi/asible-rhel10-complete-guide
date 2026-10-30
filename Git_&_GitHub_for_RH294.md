@@ -751,18 +751,21 @@ Complete these exercises in order.
 - [ ] Create a sample playbook.
 - [ ] Stage and commit the playbook.
 - [ ] Check commit history.
+
 **Exercise 2: File tracking**
 - [ ] Modify an existing playbook.
 - [ ] Use git diff.
 - [ ] Stage the changes.
 - [ ] Use git diff --staged.
 - [ ] Commit the changes.
+
 **Exercise 3: Branch management**
 - [ ] Create a feature branch.
 - [ ] Switch between branches.
 - [ ] Add a new Ansible playbook.
 - [ ] Commit your changes.
 - [ ] Merge the feature branch into main.
+
 **Exercise 4: GitHub integration**
 - [ ] Create a GitHub account.
 - [ ] Create a repository.
@@ -770,6 +773,7 @@ Complete these exercises in order.
 - [ ] Connect your local repository.
 - [ ] Push your project to GitHub.
 - [ ] Clone the repository into another directory.
+
 **Exercise 5: Real-world Ansible workflow**
 - [ ] Create an Ansible project.
 - [ ] Track inventory and playbook files.
