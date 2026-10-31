@@ -178,9 +178,9 @@ These are the commands you should learn first.
 
 Stage one file:
 
-``bash
+```bash
 git add install_apache.yml
-``
+```
 
 Stage all changes in the current directory:
 
